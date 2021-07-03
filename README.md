@@ -2,6 +2,8 @@
 
 Create your account to login. You will need to set your account to student, teacher, or administrator. 
 
+Depending on your account type, you will have access to different features.  
+
 
 # Getting Started with Create React App
 
