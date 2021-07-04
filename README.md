@@ -1,8 +1,10 @@
 #Classpoint.
 
-Create your account to login. You will need to set your account to student, teacher, or administrator. 
+<!-- Create your account to login. You will need to set your account to student, teacher, or administrator.  -->
 
-Depending on your account type, you will have access to different features.  
+<!-- Depending on your account type, you will have access to different features.   -->
+
+For now, this project will only consist of an administrator account.  For a future version, I plan to build out permissions/logins based on user type.  
 
 
 # Getting Started with Create React App
